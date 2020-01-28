@@ -1,0 +1,33 @@
+C:\Users\Jonathan\Downloads\Nueva carpeta\Nueva carpeta\bin\MCD\Debug\netcoreapp3.1\Nueva carpeta.exe
+C:\Users\Jonathan\Downloads\Nueva carpeta\Nueva carpeta\bin\MCD\Debug\netcoreapp3.1\Nueva carpeta.deps.json
+C:\Users\Jonathan\Downloads\Nueva carpeta\Nueva carpeta\bin\MCD\Debug\netcoreapp3.1\Nueva carpeta.runtimeconfig.json
+C:\Users\Jonathan\Downloads\Nueva carpeta\Nueva carpeta\bin\MCD\Debug\netcoreapp3.1\Nueva carpeta.runtimeconfig.dev.json
+C:\Users\Jonathan\Downloads\Nueva carpeta\Nueva carpeta\bin\MCD\Debug\netcoreapp3.1\Nueva carpeta.dll
+C:\Users\Jonathan\Downloads\Nueva carpeta\Nueva carpeta\bin\MCD\Debug\netcoreapp3.1\Nueva carpeta.pdb
+C:\Users\Jonathan\Downloads\Nueva carpeta\Nueva carpeta\obj\MCD\Debug\netcoreapp3.1\Nueva carpeta.csprojAssemblyReference.cache
+C:\Users\Jonathan\Downloads\Nueva carpeta\Nueva carpeta\obj\MCD\Debug\netcoreapp3.1\Nueva carpeta.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Downloads\Nueva carpeta\Nueva carpeta\obj\MCD\Debug\netcoreapp3.1\Nueva carpeta.AssemblyInfo.cs
+C:\Users\Jonathan\Downloads\Nueva carpeta\Nueva carpeta\obj\MCD\Debug\netcoreapp3.1\Nueva carpeta.dll
+C:\Users\Jonathan\Downloads\Nueva carpeta\Nueva carpeta\obj\MCD\Debug\netcoreapp3.1\Nueva carpeta.pdb
+C:\Users\Jonathan\Downloads\aaaaaCocoupm-master\Cocoupm-master\Cocoupm-master\bin\MCD\Debug\netcoreapp3.1\Nueva carpeta.exe
+C:\Users\Jonathan\Downloads\aaaaaCocoupm-master\Cocoupm-master\Cocoupm-master\bin\MCD\Debug\netcoreapp3.1\Nueva carpeta.deps.json
+C:\Users\Jonathan\Downloads\aaaaaCocoupm-master\Cocoupm-master\Cocoupm-master\bin\MCD\Debug\netcoreapp3.1\Nueva carpeta.runtimeconfig.json
+C:\Users\Jonathan\Downloads\aaaaaCocoupm-master\Cocoupm-master\Cocoupm-master\bin\MCD\Debug\netcoreapp3.1\Nueva carpeta.runtimeconfig.dev.json
+C:\Users\Jonathan\Downloads\aaaaaCocoupm-master\Cocoupm-master\Cocoupm-master\bin\MCD\Debug\netcoreapp3.1\Nueva carpeta.dll
+C:\Users\Jonathan\Downloads\aaaaaCocoupm-master\Cocoupm-master\Cocoupm-master\bin\MCD\Debug\netcoreapp3.1\Nueva carpeta.pdb
+C:\Users\Jonathan\Downloads\aaaaaCocoupm-master\Cocoupm-master\Cocoupm-master\obj\MCD\Debug\netcoreapp3.1\Nueva carpeta.csprojAssemblyReference.cache
+C:\Users\Jonathan\Downloads\aaaaaCocoupm-master\Cocoupm-master\Cocoupm-master\obj\MCD\Debug\netcoreapp3.1\Nueva carpeta.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Downloads\aaaaaCocoupm-master\Cocoupm-master\Cocoupm-master\obj\MCD\Debug\netcoreapp3.1\Nueva carpeta.AssemblyInfo.cs
+C:\Users\Jonathan\Downloads\aaaaaCocoupm-master\Cocoupm-master\Cocoupm-master\obj\MCD\Debug\netcoreapp3.1\Nueva carpeta.dll
+C:\Users\Jonathan\Downloads\aaaaaCocoupm-master\Cocoupm-master\Cocoupm-master\obj\MCD\Debug\netcoreapp3.1\Nueva carpeta.pdb
+C:\Users\Jonathan\Desktop\Cocoupm-master\Cocoupm-master\bin\MCD\Debug\netcoreapp3.1\Nueva carpeta.exe
+C:\Users\Jonathan\Desktop\Cocoupm-master\Cocoupm-master\bin\MCD\Debug\netcoreapp3.1\Nueva carpeta.deps.json
+C:\Users\Jonathan\Desktop\Cocoupm-master\Cocoupm-master\bin\MCD\Debug\netcoreapp3.1\Nueva carpeta.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Cocoupm-master\Cocoupm-master\bin\MCD\Debug\netcoreapp3.1\Nueva carpeta.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Cocoupm-master\Cocoupm-master\bin\MCD\Debug\netcoreapp3.1\Nueva carpeta.dll
+C:\Users\Jonathan\Desktop\Cocoupm-master\Cocoupm-master\bin\MCD\Debug\netcoreapp3.1\Nueva carpeta.pdb
+C:\Users\Jonathan\Desktop\Cocoupm-master\Cocoupm-master\obj\MCD\Debug\netcoreapp3.1\Nueva carpeta.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Cocoupm-master\Cocoupm-master\obj\MCD\Debug\netcoreapp3.1\Nueva carpeta.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Cocoupm-master\Cocoupm-master\obj\MCD\Debug\netcoreapp3.1\Nueva carpeta.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Cocoupm-master\Cocoupm-master\obj\MCD\Debug\netcoreapp3.1\Nueva carpeta.dll
+C:\Users\Jonathan\Desktop\Cocoupm-master\Cocoupm-master\obj\MCD\Debug\netcoreapp3.1\Nueva carpeta.pdb
